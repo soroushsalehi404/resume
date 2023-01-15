@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "next": "^13.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "resume",
+  "description": "nextjs resume website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soroushsalehi404/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "cv"
+  ],
+  "author": "soroush salehi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soroushsalehi404/resume/issues"
+  },
+  "homepage": "https://github.com/soroushsalehi404/resume#readme"
+}
